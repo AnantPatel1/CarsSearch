@@ -1,0 +1,102 @@
+[
+  {
+    "car_image": "https://example.com/car1.jpg",
+    "car_name": "Toyota Camry",
+    "car_price": "$25,000",
+    "seaters": 5,
+    "year_manufacture": 2022,
+    "mileage": "30,000 miles",
+    "is_automatic": true,
+    "fuel_type": "Gasoline"
+  },
+  {
+    "car_image": "https://example.com/car2.jpg",
+    "car_name": "Honda Civic",
+    "car_price": "$20,500",
+    "seaters": 5,
+    "year_manufacture": 2021,
+    "mileage": "25,000 miles",
+    "is_automatic": true,
+    "fuel_type": "Gasoline"
+  },
+  {
+    "car_image": "https://example.com/car3.jpg",
+    "car_name": "Ford F-150",
+    "car_price": "$35,000",
+    "seaters": 3,
+    "year_manufacture": 2020,
+    "mileage": "40,000 miles",
+    "is_automatic": true,
+    "fuel_type": "Diesel"
+  },
+  {
+    "car_image": "https://example.com/car4.jpg",
+    "car_name": "Tesla Model 3",
+    "car_price": "$45,000",
+    "seaters": 5,
+    "year_manufacture": 2023,
+    "mileage": "10,000 miles",
+    "is_automatic": true,
+    "fuel_type": "Electric"
+  },
+  {
+    "car_image": "https://example.com/car5.jpg",
+    "car_name": "BMW X5",
+    "car_price": "$50,000",
+    "seaters": 5,
+    "year_manufacture": 2021,
+    "mileage": "20,000 miles",
+    "is_automatic": true,
+    "fuel_type": "Gasoline"
+  },
+  {
+    "car_image": "https://example.com/car6.jpg",
+    "car_name": "Hyundai Sonata",
+    "car_price": "$22,500",
+    "seaters": 5,
+    "year_manufacture": 2022,
+    "mileage": "15,000 miles",
+    "is_automatic": true,
+    "fuel_type": "Hybrid"
+  },
+  {
+    "car_image": "https://example.com/car7.jpg",
+    "car_name": "Chevrolet Silverado",
+    "car_price": "$37,500",
+    "seaters": 6,
+    "year_manufacture": 2020,
+    "mileage": "35,000 miles",
+    "is_automatic": true,
+    "fuel_type": "Gasoline"
+  },
+  {
+    "car_image": "https://example.com/car8.jpg",
+    "car_name": "Nissan Altima",
+    "car_price": "$21,000",
+    "seaters": 5,
+    "year_manufacture": 2021,
+    "mileage": "22,000 miles",
+    "is_automatic": true,
+    "fuel_type": "Gasoline"
+  },
+  {
+    "car_image": "https://example.com/car9.jpg",
+    "car_name": "Jeep Wrangler",
+    "car_price": "$33,000",
+    "seaters": 4,
+    "year_manufacture": 2022,
+    "mileage": "12,000 miles",
+    "is_automatic": true,
+    "fuel_type": "Gasoline"
+  },
+  {
+    "car_image": "https://example.com/car10.jpg",
+    "car_name": "Kia Soul",
+    "car_price": "$19,500",
+    "seaters": 5,
+    "year_manufacture": 2021,
+    "mileage": "18,000 miles",
+    "is_automatic": true,
+    "fuel_type": "Electric"
+  }
+]
