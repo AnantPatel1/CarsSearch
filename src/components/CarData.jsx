@@ -39,22 +39,22 @@ export default function CarCard({ car }) {
           <div className="d-flex flex-wrap justify-content-between">
             <div className="p-1" style={{ flex: "0 0 calc(50% - 15px)" }}>
               <p className="card-text">
-                <FaUsers class="text-primary" /> {car.seaters}
+                <FaUsers className="text-primary" /> {car.seaters}
               </p>
             </div>
             <div className="p-1" style={{ flex: "0 0 calc(50% - 15px)" }}>
               <p className="card-text">
-                <FaGasPump class="text-primary" /> {car.fuel_type}
+                <FaGasPump className="text-primary" /> {car.fuel_type}
               </p>
             </div>
             <div className="p-1" style={{ flex: "0 0 calc(50% - 15px)" }}>
               <p className="card-text">
-                <FaTachometerAlt class="text-primary" /> {car.mileage}
+                <FaTachometerAlt className="text-primary" /> {car.mileage}
               </p>
             </div>
             <div className="p-1" style={{ flex: "0 0 calc(50% - 15px)" }}>
               <p className="card-text">
-                <FaCar class="text-primary" /> {car.type}
+                <FaCar className="text-primary" /> {car.type}
               </p>
             </div>
           </div>
@@ -70,7 +70,7 @@ export default function CarCard({ car }) {
               }}
             >
               <button type="button" className="btn  bg-info rounded-4 m-1">
-                <BsHeart className="" />
+                <BsHeart />
               </button>
               <button type="button" className="btn btn-primary rounded-4 m-1">
                 Rent Now
