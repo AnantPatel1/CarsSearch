@@ -3,7 +3,7 @@ export default function Navbar() {
     <nav className="navbar navbar-expand-lg bg-body-tertiary rounded  mt-2 m-3 shadow-lg">
       <div className="container-fluid">
         <a className="navbar-brand" href="#">
-          Navbar
+          Cars
         </a>
         <button
           className="navbar-toggler"
@@ -59,7 +59,7 @@ export default function Navbar() {
                 </li>
                 <li>
                   <a className="dropdown-item" href="#">
-                    Tyoto
+                    Honda Civic
                   </a>
                 </li>
               </ul>
