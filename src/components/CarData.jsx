@@ -15,11 +15,18 @@ export default function CarCard({ car }) {
         <Carousel interval={null}>
           {car.car_images.map((image, imageIndex) => (
             <Carousel.Item key={imageIndex}>
-              <img
-                src={image}
-                className="card-img-top rounded-4"
-                alt={carNameAndYear}
-              />
+              <div
+                style={{
+                  height: "300px",
+                  width: "370px",
+                }}
+              >
+                <img
+                  src={image}
+                  className="card-img-top rounded-4"
+                  alt={carNameAndYear}
+                />
+              </div>
             </Carousel.Item>
           ))}
         </Carousel>
